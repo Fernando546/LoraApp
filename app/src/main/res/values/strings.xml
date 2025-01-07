@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppLora</string>
+    <string name="write_as">Write as %1$s</string>
+    <string name="available_devices">Available devices:</string>
+    <string name="refresh">Refresh</string>
+</resources>

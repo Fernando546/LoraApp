@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AC67FF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#AC67FF</color>
+    <color name="backgroundColor">#FFFFFF</color> <!-- White for light theme -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textColor">#000000</color> <!-- Black for light theme -->
+    <color name="subTextColor">#808080</color> <!-- Light gray for light theme -->
+    <color name="darkGrey">#D3D3D3</color>
+    <color name="sentMessageBackground">#AC67FF</color>
+    <color name="receivedMessageBackground">#9D9D9D</color>
+    <color name="sentMessageColor">#AC67FF</color>
+</resources>
